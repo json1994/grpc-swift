@@ -109,7 +109,7 @@ let package = Package(
   name: "grpc-swift",
   platforms: [
     .macOS(.v15),
-    .iOS(.v15),
+    .iOS(.v16),
     .tvOS(.v18),
     .watchOS(.v11),
     .visionOS(.v2),
